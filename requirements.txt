@@ -6,4 +6,4 @@ psycopg2-binary==2.9.12
 pymysql==1.2.0
 pywebview==6.2.1
 requests==2.34.2
-tzdata==2026.3
+tzdata==2026.4
